@@ -1,7 +1,5 @@
 #.gitignore
-/Include/
-/Scripts/
-/Lib/
+test.py
 *.pyc
 *.pyo
 
