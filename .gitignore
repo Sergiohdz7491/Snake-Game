@@ -1,6 +1,5 @@
 #.gitignore
 test.py
-anothertest.py
 *.pyc
 *.pyo
 
