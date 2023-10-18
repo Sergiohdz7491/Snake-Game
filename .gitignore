@@ -1,7 +1,7 @@
 #.gitignore
-/include/
-/scripts/
-/lib/
+/Include/
+/Scripts/
+/Lib/
 *.pyc
 *.pyo
 
