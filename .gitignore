@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 *.pyo
 
+pyvenv.cfg
 SnakeGame.code-workspace
