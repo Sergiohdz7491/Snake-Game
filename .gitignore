@@ -2,6 +2,6 @@
 test.py
 *.pyc
 *.pyo
-
 pyvenv.cfg
+
 SnakeGame.code-workspace
